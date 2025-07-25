@@ -1,7 +1,7 @@
 
 KAIST EE209: Programming Structures for Electrical Engineering 
 Assignment 4
-Instructions : https://ee209-2020-fall.github.io/assignment/assignment4/assembly.html
+
 
 ==============================
 Name: Melese Medhin
